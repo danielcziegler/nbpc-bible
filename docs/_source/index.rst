@@ -1,6 +1,6 @@
 Introduction
 ############
 
-Welcome to this Guide!
+Welcome to this Guide! Fun maybe?
 
 .. include:: category/index.rst

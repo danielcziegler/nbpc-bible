@@ -5,3 +5,5 @@ set -o pipefail
 set -o nounset
 
 exec make livehtml
+
+exec make html

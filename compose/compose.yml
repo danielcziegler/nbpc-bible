@@ -6,7 +6,7 @@ services:
       context: .
       dockerfile: ./Dockerfile
     volumes:
-      - ./docs:/docs:z
+      - ../docs:/docs:z
     ports:
       - '9000:9000'
     command: /start-docs
